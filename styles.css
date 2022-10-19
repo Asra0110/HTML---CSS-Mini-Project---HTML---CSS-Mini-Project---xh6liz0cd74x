@@ -64,9 +64,9 @@ body, html{
   }
   
   .ptext .border{
-    background-color:#111;
-    color:#fff;
-    padding:20px;
+    background-color:red;
+    color:black;
+    padding:30px;
   }
   
   .ptext .border.trans{
